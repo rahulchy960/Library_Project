@@ -1,4 +1,4 @@
-# Library Management System : A Library Handler with database management in C
+# Library Management System : A Library Handler with File Handling in C
 
 ### Introduction
 This C program is designed to serve as a simple library management system. It allows for the registration of library members, the addition of books to the library, displaying member information, and performing various library-related functions. The program is text-based and primarily utilizes command-line interactions.
